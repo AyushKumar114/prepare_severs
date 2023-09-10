@@ -1,1 +1,1 @@
-# prepare_severs
+The script when run updates the system, removes openssh (if installed), installs openssh, copies the public keys , then ssh the other system. Once run the script should end with a ssh prompt to the other system
